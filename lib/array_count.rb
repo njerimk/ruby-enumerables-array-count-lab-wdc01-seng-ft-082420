@@ -4,7 +4,7 @@ array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 
 array.count do |str|
-  puts str << obj → str 
+  puts str == obj → str
   end
 end
  
