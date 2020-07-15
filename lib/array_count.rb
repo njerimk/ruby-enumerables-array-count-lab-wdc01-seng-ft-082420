@@ -4,7 +4,7 @@ array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 string =""
 array.count do |element|
-  puts element == string
+  puts string > 0.to_s
   end
 end
  
