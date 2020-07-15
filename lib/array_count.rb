@@ -24,4 +24,4 @@ string = ""
 end
 array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
-count_empty_strings(array_1)
+count_empty_strings(array_2)
