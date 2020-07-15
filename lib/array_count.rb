@@ -3,8 +3,8 @@ def count_strings(array)
 array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 string =""
-array.count do |element|
-  puts string > 1.to_s
+array.count do |string|
+  puts string 
   end
 end
  
