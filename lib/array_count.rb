@@ -3,8 +3,8 @@ def count_strings(array)
 array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 
-array.count do |string.class|
-  string.class == ""
+array.count do |string|
+  string == "".class
   end
 end
  
