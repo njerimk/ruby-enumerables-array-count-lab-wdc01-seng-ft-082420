@@ -19,7 +19,7 @@ array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 string = ""
   array.count do |string|
-    puts string == ""
+    string == ""
   end
 end
 array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
